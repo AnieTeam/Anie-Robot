@@ -37,3 +37,4 @@ nekos.py
 mwt
 telethon
 sylviorus
+pyrogram
